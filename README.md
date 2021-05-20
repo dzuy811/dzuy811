@@ -8,7 +8,6 @@
 🎓 &nbsp;I'm currently studying Bachelor of Information Technology (minor in Cloud Technology) at RMIT University Vietnam.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play badminton and read book.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at duyhs1234@gmail.com! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -27,12 +26,17 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
-
+<br></br>
+<br></br>
+<br></br>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/dzuy811">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzuy811&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzuy811&layout=compact&langs_count=8&theme=algolia&hide=css,scss"/>
+</a>
+<a href="https://github.com/dzuy811">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzuy811&layout=compact&langs_count=8&theme=algolia&hide=css,scss"/>
 </a>
 </p>
@@ -42,7 +46,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/duy-vo-tran-truong-0b446b199/"><img src="https://img.shields.io/badge/-Duy%20Vo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="duyhs1234@gmail.com"><img src="https://img.shields.io/badge/-duyhs1234@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.facebook.com/votrantruongduy/"><img src="https://img.shields.io/badge/-@dzuy811?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.facebook.com/votrantruongduy/"><img src="https://img.shields.io/badge/-Duy%20Vo-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 -----

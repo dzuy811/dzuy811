@@ -9,8 +9,10 @@
 🌱 &nbsp;I'm on track for learning more about Cybersecurity and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play badminton and read books.\
 ✉️ &nbsp;You can shoot me an email at duyhs1234@gmail.com! I'll try to respond as soon as I can.
-
+<br></br>
+<div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -33,6 +35,7 @@
 ![Whireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
 <br></br>
 <br></br>
+</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -40,7 +43,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzuy811&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
 <a href="https://github.com/dzuy811">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzuy811&layout=compact&langs_count=8&theme=algolia&hide=css,scss"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzuy811&layout=compact&langs_count=10&theme=algolia&hide=css,scss"/>
 </a>
 </p>
 

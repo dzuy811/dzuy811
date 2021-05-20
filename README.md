@@ -10,7 +10,6 @@
 ✍️ &nbsp;In my free time, I play badminton and read books.\
 ✉️ &nbsp;You can shoot me an email at duyhs1234@gmail.com! I'll try to respond as soon as I can.
 <br></br>
-<div>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 
@@ -34,7 +33,6 @@
 ![Whireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark)&nbsp;
 <br></br>
 <br></br>
-</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">

@@ -4,7 +4,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp; I like to explore new technologies and build up security solutions.\
 🎓 &nbsp;I'm currently studying Bachelor of Information Technology (minor in Cloud Technology) at RMIT University Vietnam.\
 🌱 &nbsp;I'm on track for learning more about Cybersecurity and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I play badminton and read books.\

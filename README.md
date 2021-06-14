@@ -39,10 +39,6 @@
 <a href="https://github.com/dzuy811">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzuy811&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-<a href="https://github.com/dzuy811">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzuy811&layout=compact&langs_count=10&theme=algolia&hide=css,scss"/>
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 

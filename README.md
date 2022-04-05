@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I like to explore new technologies and build up security solutions.\
-🎓 &nbsp;I'm currently studying Bachelor of Information Technology (minor in Cloud Technology) at RMIT University Vietnam.\
-🌱 &nbsp;I'm on track for learning more about Cybersecurity and Cloud Architecture.\
+💡 &nbsp;I like to explore new technologies and build up security solutions.\
+🎓 &nbsp;I'm currently studying Bachelor of Information Technology at RMIT University Vietnam.\
+🌱 &nbsp;I'm on track for learning more about Cybersecurity and Infrastructure Security.\
 ✍️ &nbsp;In my free time, I play badminton and read books.\
 ✉️ &nbsp;You can shoot me an email at duyhs1234@gmail.com! I'll try to respond as soon as I can.
 <br></br>

@@ -43,7 +43,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/duy-vo-tran-truong-0b446b199/"><img src="https://img.shields.io/badge/-Duy%20Vo%20Tran%20Truong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/duyvo0811/"><img src="https://img.shields.io/badge/-Duy%20Vo%20Tran%20Truong-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="duyhs1234@gmail.com"><img src="https://img.shields.io/badge/-duyhs1234@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/votrantruongduy/"><img src="https://img.shields.io/badge/-Trường%20Duy-0077B5?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
